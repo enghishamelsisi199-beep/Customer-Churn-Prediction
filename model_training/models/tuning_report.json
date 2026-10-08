@@ -1,0 +1,29 @@
+{
+  "best_model": "XGBoost (tuned)",
+  "all_results": {
+    "Logistic Regression (tuned)": {
+      "cv_f1": 0.6297156927792796,
+      "best_params": {
+        "smote__k_neighbors": 3,
+        "model__class_weight": null,
+        "model__C": 0.01
+      },
+      "f1_score": 0.619625137816979,
+      "auc_pr": 0.6377473897318381
+    },
+    "XGBoost (tuned)": {
+      "cv_f1": 0.6358635237479662,
+      "best_params": {
+        "smote__k_neighbors": 7,
+        "model__subsample": 1.0,
+        "model__n_estimators": 100,
+        "model__min_child_weight": 1,
+        "model__max_depth": 3,
+        "model__learning_rate": 0.05,
+        "model__colsample_bytree": 0.8
+      },
+      "f1_score": 0.6305655836341757,
+      "auc_pr": 0.6526014509886822
+    }
+  }
+}

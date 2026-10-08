@@ -1,0 +1,17 @@
+{
+  "best_model": "Logistic Regression",
+  "all_results": {
+    "Logistic Regression": {
+      "f1_score": 0.6172300981461287,
+      "auc_pr": 0.647480244764776
+    },
+    "Random Forest": {
+      "f1_score": 0.5558659217877095,
+      "auc_pr": 0.5992885739513082
+    },
+    "XGBoost": {
+      "f1_score": 0.5726495726495726,
+      "auc_pr": 0.6287244555214447
+    }
+  }
+}

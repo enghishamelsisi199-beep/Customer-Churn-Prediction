@@ -1,0 +1,2 @@
+{"timestamp": "2026-09-07T22:42:23", "n_rows": 25, "mean_churn_probability": 0.3722, "n_flagged_high_risk": 9, "max_psi": 2.4556, "drifted_features": 4}
+{"timestamp": "2026-09-08T14:06:27", "n_rows": 25, "mean_churn_probability": 0.3722, "n_flagged_high_risk": 9, "max_psi": 2.4556, "drifted_features": 4}
